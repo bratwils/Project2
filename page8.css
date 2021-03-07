@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+.container {
+	padding: 20px;
+    width: 960px;
+    height: auto;
+    margin: 0 auto 0 auto;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+
+
+.button2 {
+	padding-right: 20px;
+	padding-left: 20px;
+	padding-top: 20px;
+	float: left;
+}
+
+.button3 {
+	padding-right: 20px;
+	padding-left: 20px;
+	padding-top: 20px;
+	float: left;
+}
